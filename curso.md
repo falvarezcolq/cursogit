@@ -2,11 +2,8 @@
 
 1. DESCARGAR GIT https://git-scm.com/
 2. Tener un editor o instalar Visual Studio Code  https://code.visualstudio.com/
+3. Crear cuenta en github https://github.com/ requiere activacion por correo
 
-
-
-
-## Crear cuenta en github 
 
 ## Configurar git por primera vez
 
