@@ -45,4 +45,14 @@ git add .
 git commit -m "primer commit"
 git diff
 
+
+git add .
+git commit -m "segundo commit"
+
+git add .
+git commit -m "tercer commit commit"
+
+
+git log
+
 ```
