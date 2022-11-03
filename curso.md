@@ -26,3 +26,23 @@ Si quieres comprobar tu configuración, puedes usar el comando git config --list
 ```
 $ git config --list
 ```
+
+
+
+
+
+## Primeros comandos
+
+
+mkdir cursogit
+
+crear el archivo.txt
+
+```
+git init
+git status
+git add .
+git commit -m "primer commit"
+
+
+```
