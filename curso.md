@@ -55,4 +55,6 @@ git commit -m "tercer commit commit"
 
 git log
 
+
+git checkout <CODIGO COMMIT>
 ```
