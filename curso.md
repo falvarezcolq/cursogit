@@ -43,6 +43,6 @@ git init
 git status
 git add .
 git commit -m "primer commit"
-
+git diff
 
 ```
